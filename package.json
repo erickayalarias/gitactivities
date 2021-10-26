@@ -30,6 +30,7 @@
   "license": "MIT",
   "dependencies": {
     "@types/jest": "^25.2.1",
+    "git-basics-1-pill": "github:assembler-school/git-basics-1",
     "git-tools": "^0.3.0",
     "jest": "^25.5.2",
     "simple-git": "^2.2.0"
